@@ -1,0 +1,21 @@
+git init
+git add
+git status
+git commit
+git log
+git remote
+git push
+
+
+template download
+open index.html
+open git bash here
+git init
+ccreate template foldder
+new template repository
+add the link
+add the files
+git commit
+git push origin master
+
+
